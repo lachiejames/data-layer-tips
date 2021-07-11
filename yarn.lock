@@ -3595,6 +3595,11 @@ ts-jest@27.0.3:
     semver "7.x"
     yargs-parser "20.x"
 
+ts-object-path@0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/ts-object-path/-/ts-object-path-0.1.2.tgz#7bbfa50a9a3970bcdd7e67470d00fb54ca22a6c7"
+  integrity sha512-YLX9omkbe2spFv7DDo1fC5BiRfMtu/LgYuGSXnuIT5EkhedzCEShT7YrsQV3pjjT7doY2RHfoxJrra16KJlf7w==
+
 tsconfig-paths@^3.9.0:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/tsconfig-paths/-/tsconfig-paths-3.9.0.tgz#098547a6c4448807e8fcb8eae081064ee9a3c90b"
